@@ -2,17 +2,15 @@
 
 Uma landing page responsiva desenvolvida para um estúdio de fotografia fictício, criada com foco em boas práticas de HTML5, CSS3, acessibilidade e design responsivo.
 
-![Preview do Projeto](assets/preview/preview.png)
+![Preview do Projeto](preview/preview.png)
 
 ---
 
-## 🌐 Projeto Online
+##  🔗 Acesse o projeto
 
-🔗 https://henrique-aragao.github.io/lumiere-studio-maintenance/
+🌐 **Projeto Online:** [Visualizar Projeto](https://henrique-aragao.github.io/lumiere-studio-maintenance/)
 
-## 💻 Repositório
-
-🔗 https://github.com/henrique-aragao/lumiere-studio-maintenance
+💻 **Repositório** [Ver Repositório](https://github.com/henrique-aragao/lumiere-studio-maintenance)
 
 ---
 
@@ -56,11 +54,11 @@ lumiere-studio-maintenance-page/
 │
 ├── assets/
 │   ├── css/
-│   │   └── style.css
 │   ├── icons/
-│   ├── img/
-│   └── preview/
-│       └── preview.png
+│   └── img/
+│
+├── preview/
+│   └── preview.png
 │
 ├── index.html
 └── README.md
@@ -109,8 +107,7 @@ A proposta foi aplicar conceitos de HTML e CSS na construção de uma interface 
 
 ## 👨‍💻 Desenvolvido por
 
-**Henrique Lins**
+Desenvolvido por **Henrique Lins**.
 
-Graduado em Análise e Desenvolvimento de Sistemas e estudante de Engenharia de Software.
-
-GitHub: https://github.com/henrique-aragao
+- GitHub: https://github.com/henrique-aragao
+- LinkedIn: https://www.linkedin.com/in/henrique-lins-aragao
