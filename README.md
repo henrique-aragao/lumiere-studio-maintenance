@@ -105,7 +105,7 @@ A proposta foi aplicar conceitos de HTML e CSS na construção de uma interface 
 
 ---
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Autor
 
 Desenvolvido por **Henrique Lins**.
 
